@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/robocards/static/css/main.ffaeba32.chunk.css",
+    "main.js": "/robocards/static/js/main.d2709df5.chunk.js",
+    "main.js.map": "/robocards/static/js/main.d2709df5.chunk.js.map",
+    "runtime-main.js": "/robocards/static/js/runtime-main.744a6268.js",
+    "runtime-main.js.map": "/robocards/static/js/runtime-main.744a6268.js.map",
+    "static/js/2.6982b01f.chunk.js": "/robocards/static/js/2.6982b01f.chunk.js",
+    "static/js/2.6982b01f.chunk.js.map": "/robocards/static/js/2.6982b01f.chunk.js.map",
+    "index.html": "/robocards/index.html",
+    "precache-manifest.45093392d86bd9c50e7258df29a63b7b.js": "/robocards/precache-manifest.45093392d86bd9c50e7258df29a63b7b.js",
+    "service-worker.js": "/robocards/service-worker.js",
+    "static/css/main.ffaeba32.chunk.css.map": "/robocards/static/css/main.ffaeba32.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.744a6268.js",
+    "static/js/2.6982b01f.chunk.js",
+    "static/css/main.ffaeba32.chunk.css",
+    "static/js/main.d2709df5.chunk.js"
+  ]
+}

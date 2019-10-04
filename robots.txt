@@ -1,0 +1,2 @@
+# https://www.robottstxt.org/robottstxt.html
+User-agent: *
